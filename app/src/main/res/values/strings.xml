@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Health Analyzer</string>
+    <string-array name="countries">
+        <item>Karachi Institute of Heart Diseases</item>
+        <item>Tabba Heart Institute</item>
+        <item>Medicare Cardiac N General Hospital</item>
+        <item>Tubba Heart Hospital</item>
+        <item>Sindh Heart Hospital</item>
+        <item>Tabba Heart Institute Emergency First Aid</item>
+        <item>Hussaini Hospital</item>
+        <item>NICVD National Institute of Cardiovascular Diseases</item>
+        <item>PAF Masroor Emergency Hospital</item>
+        <item>Darul Iftaa Wal Irshaad Abbas Goth Hazrat Sheikh</item>
+        <item>Dr. Faraz Asim</item>
+        <item>NICVD Chest Pain Unit at Gulshan Chowrangi Flyover</item>
+        <item>Cardio Centre Lyari General Hospital</item>
+    </string-array>
+</resources>
